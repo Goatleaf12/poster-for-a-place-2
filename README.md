@@ -1,7 +1,8 @@
 # VELORA — The Poster for a Place That Isn't There
 
-[![make.fun bounty](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/badge.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
-[![rank](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard)
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/Goatleaf12/poster-for-a-place-2/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/Goatleaf12/poster-for-a-place-2/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 
 **VELORA** — an island where the aurora touches the sea.
 
